@@ -1,4 +1,8 @@
 
+html {
+  scroll-behavior: smooth;
+}
+
 .text-flicker-in-glow {
 	-webkit-animation: text-flicker-in-glow 4s linear both;
 	        animation: text-flicker-in-glow 4s linear both;
